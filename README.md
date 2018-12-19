@@ -13,6 +13,10 @@ This is the configuration addon for GmodAdminSuite.
 3. Open the `garrysmod/addons/gmodadminsuite-config/lua` folder on your server
 4. Read each file and configure them accordingly
 
+## Installing GmodAdminSuite
+
+To install GmodAdminSuite itself, simply add the [Workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1595332211) to your server's [Workshop collection](http://wiki.garrysmod.com/page/Workshop_for_Dedicated_Servers).
+
 ## Footnote
 
 Most configuration for GmodAdminSuite is actually done in the in-game menus.
