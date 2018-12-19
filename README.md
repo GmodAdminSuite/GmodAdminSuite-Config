@@ -1,3 +1,5 @@
+![Logo](https://gmodadminsuite.com/assets/img/logo.png)
+
 # GmodAdminSuite Configuration
 
 This is the configuration addon for GmodAdminSuite.
