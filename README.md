@@ -9,7 +9,7 @@ This is the configuration addon for GmodAdminSuite.
 ## How to install
 
 1. [Download the addon](https://github.com/GmodAdminSuite/GmodAdminSuite-Config/archive/master.zip)
-2. Drop the EXTRACTED `GmodAdminSuite-Config-master` folder into your server's `garrysmod/addons/` folder
+2. Drop the (extracted) `GmodAdminSuite-Config-master` FOLDER (not .zip) into your server's `garrysmod/addons/` folder
 3. Open the `garrysmod/addons/GmodAdminSuite-Config-master/lua` folder on your server
 4. Read each file and configure them accordingly
 
