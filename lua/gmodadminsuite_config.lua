@@ -18,5 +18,11 @@ GAS.Config.ChatCommand = "!gas"
 -- In seconds, how long until an inactive player is marked AFK?
 GAS.Config.AFKTime = 300
 
+-- Should GmodAdminSuite content (sounds, materials, etc.) be downloaded by users through the Workshop when they join the server?
+GAS.Config.WorkshopDL = true
+
+-- Should GmodAdminSuite content be downloaded by users directly from the server when they join? (this is unnecessary if you are using WorkshopDL)
+GAS.Config.ServerDL = false
+
 -- Do not delete the following line; your config will break.
 return true
