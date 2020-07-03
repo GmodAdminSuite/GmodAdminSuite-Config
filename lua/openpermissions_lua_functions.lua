@@ -17,7 +17,7 @@
 ]]
 
 return {
-	["example_function"] = function(ply)
+	["example_function"] = function(ply, permission_id)
 		if (ply:SteamID() == "STEAM_0:1:40314158" or ply:SteamID64() == "76561198112561190") then
 			return true -- allow!
 		elseif (ply:SteamID() == "STEAM_0:1:7099") then
